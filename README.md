@@ -1,6 +1,6 @@
 - 👋 Hi! My name is Pedro.
 - 👀 I’m interested in web development
-- 🌱 Currently expanding my knowledge of ReactJS and avanced SASS
+- 🌱 Currently learning Vue.js and advanced Sass
 - 📫 How to reach me: phenestroza@gmail.com
 
 <!---
