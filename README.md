@@ -1,6 +1,6 @@
 - 👋 Hi! My name is Pedro.
-- 👀 I’m interested in web development
-- 🌱 Currently learning Vue.js and advanced Sass
+- 🧑🏻‍💻 I'm a frontend developer
+- 🌱 Currently learning AEM development and Gatsby
 - 📫 How to reach me: phenestroza@gmail.com
 
 <!---
