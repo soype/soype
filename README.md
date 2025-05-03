@@ -1,6 +1,6 @@
 - 👋 Hi! My name is Pedro.
-- 🧑🏻‍💻 I'm a frontend developer
-- 🌱 Currently learning AEM development and Gatsby
+- 🧑🏻‍💻 I'm a FullStack developer
+- NextJS, Shopify, PHP and more
 - 📫 How to reach me: phenestroza@gmail.com
 
 <!---
